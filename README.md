@@ -29,13 +29,3 @@ This is a simple React application that displays information about bike stations
 - **Conversion Functions**: There are utility functions for converting API responses into structured data that can be easily displayed.
   
 - **React Router**: The React Router library is used for navigation, allowing users to view parking details by clicking on parking names.
-
-
-## Installation
-
-To run this application locally, follow these steps:
-
-1. Clone the repository to your local machine.
-
-   ```bash
-   git clone https://github.com/your-username/bike-station-app.git
