@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { parkingsApiLink } from "../api_links";
+import { parkingsApiLink } from "../utils/api_links";
 import ParkingStationType from "../models/ParkingStationType";
 import styled from "styled-components";
 import { useNavigate } from "react-router-dom";

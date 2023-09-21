@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import {
   bikeStationGhentDampoortApiLink,
   bikeStationGhentSintPieters
-} from "../api_links";
+} from "../utils/api_links";
 
 import ApiBikeResponseType from "../models/ApiBikeResponseType";
 import BikeStationType from "../models/BikeStationTypes";
