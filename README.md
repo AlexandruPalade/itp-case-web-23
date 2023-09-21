@@ -29,3 +29,6 @@ This is a simple React application that displays information about bike stations
 - **Conversion Functions**: There are utility functions for converting API responses into structured data that can be easily displayed.
   
 - **React Router**: The React Router library is used for navigation, allowing users to view parking details by clicking on parking names.
+
+## Deploy
+- For deploying the app I used Heroku, the link for the app is [link](https://itp-case-web-23-515b2358c032.herokuapp.com/)
